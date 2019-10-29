@@ -67,6 +67,7 @@ export default {
 };
 </script>
 
+
 <style scoped>
   .data-loading {
     display: flex;
@@ -90,8 +91,8 @@ export default {
   .person {
     border-bottom: solid 1px lightgrey;
     display: flex;
-    flex-direction: column;
     flex-basis: calc(100% - 20px);
+    flex-direction: column;
     align-items: center;
     margin: 10px;
     padding: 10px;

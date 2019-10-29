@@ -80,6 +80,7 @@ export default {
     border-radius: 5px;
     display: flex;
     flex-basis: calc(33.33% - 20px);
+    flex-grow: 1;
     align-items: center;
     margin: 10px;
     padding: 10px;
